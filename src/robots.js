@@ -1,21 +1,21 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Brooke Billings',
+    username: 'Brooke',
+    email: 'Cookie@duckie.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Zoe Brindley',
+    username: 'Zoe',
+    email: 'Zoe@brindley.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Paul Billings',
+    username: 'Paul',
+    email: 'paul@billings.com'
   },
   {
     id: 4,
